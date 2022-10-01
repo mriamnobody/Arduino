@@ -1,2 +1,2 @@
 # Arduino
-Stuff related to ARduino
+Stuff related to Arduino
